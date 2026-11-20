@@ -1,0 +1,1 @@
+driver and uefi https://github.com/rexnox/windows_xiaomi_platforms/releases/tag/0e7aa8b
